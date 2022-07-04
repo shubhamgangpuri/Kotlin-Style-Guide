@@ -5,3 +5,6 @@
 
 
 # Naming
+## Classes & Objects
+Test classes are named starting with the class name of the class they are testing and ended by with Test.
+e.g. : LoginActivityTest or LoginPresenterTest
